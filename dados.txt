@@ -1,0 +1,4 @@
+Nome    Nota1  Nota2  Media   
+ana     2       3       2.5
+caio     1       7       4
+laura     6       8       7
